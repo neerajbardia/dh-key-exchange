@@ -1,4 +1,8 @@
 #diffie hellman key exchange
+#this is a single file with the sender and the reciever functions, this file can be split into two separate files and made to communicate through socket programming to enable
+#transfer of data. Socket programming and diffie hellman key exchange algorithm together can be very helpful to undestand the use of diffie hellman. Also there can be a
+#middle-man too who can alter the messages and hence check if the algorithm is actually working or not.
+
 
 import random
 import sys
